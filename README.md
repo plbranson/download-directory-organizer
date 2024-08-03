@@ -1,8 +1,11 @@
 # download-directory-organizer
+
 Download Directory Organizer Application
 
 ## Function
+
 Organizes the downloads files into these directories:
+
 - Documents
 - Images
 - Videos
